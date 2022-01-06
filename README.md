@@ -11,4 +11,4 @@ I'm Steven, a Site Reliability Engineer at Wish China.
 ### Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpeng-wish&theme=vue)
-|2022-01-06|||:dog:||
+|2022-01-06|||:dog::dog:||
